@@ -1,4 +1,6 @@
-# html-css
- Curso de HTML5 e CSS3
+# REPOSITÓRIO
+ Olá, bem vindo ao meu repositório do GitHub
 
- Estou aprendendo a criar sites e agora vou gerenciar repositórios.
+ Clique aqui para acessar os meus projetos:
+
+ https://arthurzacarias.github.io/html-css/desafios/des010/android.html
